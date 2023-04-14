@@ -2,6 +2,7 @@
 
 <!--
 **RemaAlorine/RemaAlorine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+--!>
 
 <h1 align="center">Hi 👋, I'm Rema</h1>
 <h3 align="center">A passionate Software Engineering student at KSU</h3>
