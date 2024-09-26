@@ -5,7 +5,7 @@
 --!>
 
 <h1 align="center">Hi 👋, I'm Rema</h1>
-<h3 align="center">A passionate Software Engineering student at KSU</h3>
+<h3 align="center">A passionate Software Engineering fresh graduate from KSU</h3>
 
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=remaalorine&label=Profile%20views&color=0e75b6&style=flat" alt="remaalorine" /> </p>
